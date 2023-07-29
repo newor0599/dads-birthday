@@ -51,7 +51,7 @@ body{
 }
 
 .nav>a{
-    background: rgb(255,255,255);
+    background: rgb(44 44 44);
     height:.5rem;
     width:.5rem;
     border-radius: 100px;

@@ -1,2 +1,0 @@
-
-window.location = "#5"
